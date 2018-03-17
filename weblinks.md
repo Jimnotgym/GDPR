@@ -27,6 +27,8 @@ Encrypted storage from Anvil https://www.youtube.com/watch?v=UEdLxZDglY0&feature
 
 Some simple steps https://www.siliconrepublic.com/enterprise/gdpr-compliance-fergal-crehan
 
+A nightmare subject access request https://www.linkedin.com/pulse/nightmare-letter-subject-access-request-under-gdpr-karbaliotis/
+
 
 
 *This is a stub article and is being actively improved*
