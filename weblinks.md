@@ -25,6 +25,8 @@ Handling the UI/UX of granular consent https://pagefair.com/blog/2018/granular-g
 
 Encrypted storage from Anvil https://www.youtube.com/watch?v=UEdLxZDglY0&feature=youtu.be
 
+Some simple steps https://www.siliconrepublic.com/enterprise/gdpr-compliance-fergal-crehan
+
 
 
 *This is a stub article and is being actively improved*
